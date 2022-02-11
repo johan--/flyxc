@@ -95,7 +95,7 @@
     "eslint-plugin-prettier": "^3.4.0",
     "jest": "^26.6.3",
     "jest-raw-loader": "^1.0.1",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "postcss": "^8.2.15",
     "prettier": "^2.3.0",
     "request-logs": "^2.1.4",
